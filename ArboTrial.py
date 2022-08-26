@@ -54,7 +54,7 @@ def extract_kv(config_file):
     print("Total Documents analyzed:", len(data_dict_list))
     # convert the list of dictionaries to csv
     pd_convert_csv(data_dict_list, file_type)
-
+    print("Done!!")
 
 if __name__ == "__main__":
     extract_kv("resources/config.json")
