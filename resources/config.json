@@ -1,0 +1,6 @@
+{
+    "endpoint": "https://azureqa01.cognitiveservices.azure.com/",
+    "key": "b25ee859803c415c86bf53f3ce956068",
+    "model_id" : "InvoiceResumeComposed",
+    "file_type": "invoice"
+}
