@@ -56,5 +56,6 @@ def extract_kv(config_file):
     pd_convert_csv(data_dict_list, file_type)
     print("Done!!")
 
+
 if __name__ == "__main__":
     extract_kv("resources/config.json")
